@@ -1,0 +1,52 @@
+[
+    {
+        "Category": "Where",
+        "Question": "is south gate",
+        "Answer": "https://www.google.com/search?q=south+gate"
+    },
+    {
+        "Category": "Where",
+        "Question": "can i buy NEX tickets",
+        "Answer": "https://www.google.com/search?q=NEX+tickets"
+    },
+    {
+        "Category": "Where",
+        "Question": "should i go to get to mt.fuji",
+        "Answer": "https://www.google.com/search?q=Get+to+Mt.fuji"
+    },
+    {
+        "Category": "Where",
+        "Question": "can i buy suica card",
+        "Answer": "https://www.google.com/search?q=Suica+card"
+    },
+    {
+        "Category": "Where",
+        "Question": "should i go to take NEX",
+        "Answer": "https://www.google.com/search?q=Take+NEX"
+    },
+    {
+        "Category": "Where",
+        "Question": "is odakyu line",
+        "Answer": "https://www.google.com/search?q=Odakyu+line"
+    },
+    {
+        "Category": "Where",
+        "Question": "can i buy hakone free pass",
+        "Answer": "https://www.google.com/search?q=Hakone+free+pass"
+    },
+    {
+        "Category": "Where",
+        "Question": "can i buy suica for child",
+        "Answer": "https://www.google.com/search?q=Suica+child"
+    },
+    {
+        "Category": "How",
+        "Question": "to go to kamakura",
+        "Answer": "https://www.google.com/search?q=How+to+go+to+kamakura"
+    },
+    {
+        "Category": "How",
+        "Question": "to buy tickets to kyoto",
+        "Answer": "https://www.google.com/search?q=How+to+buy+to+kyoto"
+    }
+]
